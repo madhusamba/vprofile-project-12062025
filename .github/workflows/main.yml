@@ -50,4 +50,3 @@ jobs:
           # Replace 'my-docker-repo' with your actual Docker repository name
           docker tag my-docker-image my-docker-repo/my-docker-image
           docker push my-docker-repo/my-docker-image
-         
